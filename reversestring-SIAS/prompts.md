@@ -8,7 +8,7 @@ Create a small web project using two files: **index.html** and **script.js**.
 
 Use the following index.html as the starting seed and modify it only if necessary to add input, button and result elements:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
